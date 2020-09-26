@@ -1,0 +1,14 @@
+root = true
+
+[*]
+# Padroniza o enter, pular linha no unix e windows
+end_of_line = lf
+# indentação por espaço ao invez de tabs
+indent_style = space
+# tamanho da indentação
+indent_size = 2
+charset = utf-8
+# tira os espaços sobrando no final da linha
+trim_trailing_whitespace = true
+# Coloca uma linha em branco sempre no final sempre que é salvo
+insert_final_newline = true
